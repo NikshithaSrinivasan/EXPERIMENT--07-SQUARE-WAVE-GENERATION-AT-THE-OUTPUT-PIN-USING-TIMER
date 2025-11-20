@@ -355,6 +355,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 <img width="1375" height="887" alt="Screenshot 2025-11-20 110515" src="https://github.com/user-attachments/assets/154687a9-005f-4f99-a976-cd1f04ba204a" />
 
+## PULSE 250
+
+<img width="1378" height="882" alt="Screenshot 2025-11-20 110606" src="https://github.com/user-attachments/assets/ac08ea79-79dc-4b9b-b1e4-5e0b15ff1a81" />
+
+
 
  
  
@@ -390,7 +395,8 @@ DUTY CYCLE = TON / TOTAL TIME
 DUTY CYCLE (%)
    = 0.5 × 100
    = 50%
-
+```
+```
 FOR PULSE AT 750
 TON = 750/1000 × TOTAL TIME
    = 0.75 × 60 × 10⁻⁶
@@ -412,6 +418,8 @@ DUTY CYCLE = TON / TOTAL TIME
 DUTY CYCLE (%)
    = 0.75 × 100
    = 75%
+```
+```
 FOR PULSE AT 250
 TON = 250/1000 × TOTAL TIME
 TON = 0.25 × 60 × 10⁻⁶
